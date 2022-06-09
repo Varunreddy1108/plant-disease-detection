@@ -1,0 +1,9 @@
+numpy
+pandas
+tqdm
+opencv-python
+scikit-learn
+matplotlib
+flask
+tensorflow
+jupyterlab
